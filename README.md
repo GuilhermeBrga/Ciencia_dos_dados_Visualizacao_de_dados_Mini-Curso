@@ -372,7 +372,7 @@ Transformar gráficos em comunicações visuais claras, limpas e eficientes.
 
 ## 📘 Repositório
 
-[GitHub do Projeto]([https://github.com/GuilhermeBrga/curso_cienciaDeDados?utm_source=chatgpt.com](https://github.com/GuilhermeBrga/Ciencia_dos_dados_Visualizacao_de_dados_Mini-Curso))
+[GitHub do Projeto](https://github.com/GuilhermeBrga/Ciencia_dos_dados_Visualizacao_de_dados_Mini-Curso)
 
 ---
 
